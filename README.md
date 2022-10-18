@@ -1,1 +1,3 @@
 # SQL
+
+Example SQL queries
